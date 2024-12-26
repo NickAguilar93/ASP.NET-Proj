@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35527.113 d17.12
+VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "Server.csproj", "{42588564-9A48-4200-8C6A-A01F4846C388}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUNIT.TESTS", "..\NUNIT.TESTS\NUNIT.TESTS.csproj", "{0EBAA230-CEE9-48BF-A892-846D818F9DF4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{42588564-9A48-4200-8C6A-A01F4846C388}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{42588564-9A48-4200-8C6A-A01F4846C388}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{42588564-9A48-4200-8C6A-A01F4846C388}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EBAA230-CEE9-48BF-A892-846D818F9DF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EBAA230-CEE9-48BF-A892-846D818F9DF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EBAA230-CEE9-48BF-A892-846D818F9DF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EBAA230-CEE9-48BF-A892-846D818F9DF4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
